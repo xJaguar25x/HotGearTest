@@ -18,14 +18,16 @@ $(function() {
                 formGr.addClass('has-success').removeClass('has-error');
                 //добавить к glyphicon класс glyphicon-ok, удалить glyphicon-remove
                 glyphicon.addClass('glyphicon-ok').removeClass('glyphicon-remove');
-                formGr.find('.input').addClass('form-control-success');//.removeClass('form-control-error');
-                console.log(formGr.find('.input'));
+               var input= formGr.find('input');
+               input.addClass('form-control-success').removeClass('form-control-error');
+               // console.log(formGr.find('.input'));
             } else {
                 //добавить к formGr класс .has-error, удалить .has-success
                 formGr.addClass('has-error').removeClass('has-success');
                 //добавить к glyphicon класс glyphicon-remove, удалить glyphicon-ok
                 glyphicon.addClass('glyphicon-remove').removeClass('glyphicon-ok');
-                formGr.find('.input').addClass('form-control-success');//.removeClass('form-control-success');
+                // formGr.find('.input').addClass('form-control-success');//.removeClass('form-control-success');
+                input.addClass('form-control-error').removeClass('form-control-error');
                 //отметить форму как невалидную 
                 formValid = false;
             }

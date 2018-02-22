@@ -1,0 +1,24 @@
+[{"name":"Russian Federation","topLevelDomain":[".ru"],"alpha2Code":"RU","alpha3Code":"RUS","callingCodes":["7"],"capital":"Moscow","altSpellings":["RU","Rossiya","Russian Federation","Российская Федерация","Rossiyskaya Federatsiya"],"region":"Europe","subregion":"Eastern Europe","population":146599183,"latlng":[60.0,100.0],"demonym":"Russian","area":1.7124442E7,"gini":40.1,"timezones":["UTC+03:00","UTC+04:00","UTC+06:00","UTC+07:00","UTC+08:00","UTC+09:00","UTC+10:00","UTC+11:00","UTC+12:00"],"borders":["AZE","BLR","CHN","EST","FIN","GEO","KAZ","PRK","LVA","LTU","MNG","NOR","POL","UKR"],"nativeName":"Россия","numericCode":"643","currencies":[{"code":"RUB","name":"Russian ruble","symbol":"?"}],"languages":[{"iso639_1":"ru","iso639_2":"rus","name":"Russian","nativeName":"Русский"}],"translations":{"de":"Russland","es":"Rusia","fr":"Russie","ja":"?????","it":"Russia","br":"Russia","pt":"Russia","nl":"Rusland","hr":"Rusija","fa":"?????"},"flag":"https://restcountries.eu/data/rus.svg","regionalBlocs":[{"acronym":"EEU","name":"Eurasian Economic Union","otherAcronyms":["EAEU"],"otherNames":[]}],"cioc":"RUS"}]
+
+сервис - https://restcountries.eu/rest/v2
+Запрос -
+https://restcountries.eu/rest/v2/name/russia?fields=name;flag;col;alpha3Code;languages;borders
+Ответ -
+[{"languages":[{"iso639_1":"ru","iso639_2":"rus","name":"Russian","nativeName":"Русский"}],"flag":"https://restcountries.eu/data/rus.svg","name":"Russian Federation","alpha3Code":"RUS","borders":["AZE","BLR","CHN","EST","FIN","GEO","KAZ","PRK","LVA","LTU","MNG","NOR","POL","UKR"]}]
+
+
+[{"languages":[{"iso639_1":"nl","iso639_2":"nld","name":"Dutch","nativeName":"Nederlands"},{"iso639_1":"pa","iso639_2":"pan","name":"(Eastern) Punjabi","nativeName":"??????"}],"flag":"https://restcountries.eu/data/abw.svg","name":"Aruba","alpha3Code":"ABW","borders":[]},
+{"languages":[{"iso639_1":"be","iso639_2":"bel","name":"Belarusian","nativeName":"беларуская мова"},{"iso639_1":"ru","iso639_2":"rus","name":"Russian","nativeName":"Русский"}],"flag":"https://restcountries.eu/data/blr.svg","name":"Belarus","alpha3Code":"BLR","borders":["LVA","LTU","POL","RUS","UKR"]},
+{"languages":[{"iso639_1":"ms","iso639_2":"msa","name":"Malay","nativeName":"bahasa Melayu"}],"flag":"https://restcountries.eu/data/brn.svg","name":"Brunei Darussalam","alpha3Code":"BRN","borders":["MYS"]},
+{"languages":[{"iso639_1":"fr","iso639_2":"fra","name":"French","nativeName":"francais"},{"iso639_1":"rn","iso639_2":"run","name":"Kirundi","nativeName":"Ikirundi"}],"flag":"https://restcountries.eu/data/bdi.svg","name":"Burundi","alpha3Code":"BDI","borders":["COD","RWA","TZA"]},
+{"languages":[{"iso639_1":"el","iso639_2":"ell","name":"Greek (modern)","nativeName":"????????"},{"iso639_1":"tr","iso639_2":"tur","name":"Turkish","nativeName":"Turkce"},{"iso639_1":"hy","iso639_2":"hye","name":"Armenian","nativeName":"???????"}],"flag":"https://restcountries.eu/data/cyp.svg","name":"Cyprus","alpha3Code":"CYP","borders":["GBR"]},
+{"languages":[{"iso639_1":"en","iso639_2":"eng","name":"English","nativeName":"English"},{"iso639_1":"na","iso639_2":"nau","name":"Nauruan","nativeName":"Dorerin Naoero"}],"flag":"https://restcountries.eu/data/nru.svg","name":"Nauru","alpha3Code":"NRU","borders":[]},
+{"languages":[{"iso639_1":"es","iso639_2":"spa","name":"Spanish","nativeName":"Espanol"}],"flag":"https://restcountries.eu/data/per.svg","name":"Peru","alpha3Code":"PER","borders":["BOL","BRA","CHL","COL","ECU"]},
+{"languages":[{"iso639_1":"ru","iso639_2":"rus","name":"Russian","nativeName":"Русский"}],"flag":"https://restcountries.eu/data/rus.svg","name":"Russian Federation","alpha3Code":"RUS","borders":["AZE","BLR","CHN","EST","FIN","GEO","KAZ","PRK","LVA","LTU","MNG","NOR","POL","UKR"]},
+{"languages":[{"iso639_1":"es","iso639_2":"spa","name":"Spanish","nativeName":"Espanol"}],"flag":"https://restcountries.eu/data/ury.svg","name":"Uruguay","alpha3Code":"URY","borders":["ARG","BRA"]},
+{"languages":[{"iso639_1":"nl","iso639_2":"nld","name":"Dutch","nativeName":"Nederlands"}],"flag":"https://restcountries.eu/data/bes.svg","name":"Bonaire, Sint Eustatius and Saba","alpha3Code":"BES","borders":[]},
+{"languages":[{"iso639_1":"ro","iso639_2":"ron","name":"Romanian","nativeName":"Romana"}],"flag":"https://restcountries.eu/data/rou.svg","name":"Romania","alpha3Code":"ROU","borders":["BGR","HUN","MDA","SRB","UKR"]}]
+
+
+ftp://test81.itdelta.ru:mdf%407gFmf@88.198.57.62/bitrix/
+

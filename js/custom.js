@@ -1,4 +1,4 @@
-//https://restcountries.eu/rest/v2/name/russia - пример запроса
+﻿//https://restcountries.eu/rest/v2/name/russia - пример запроса
 /* Данная функция создаёт кроссбраузерный объект XMLHTTP */
 function getXmlHttp(){
     var xmlhttp;
@@ -84,7 +84,9 @@ $( document ).ready(function() {
                   // получаем ссылку на объект дерева(наша кнопка)            
                   out_id_mass[i] = document.getElementById( out_id_mass[i] );  
                   // вешаем обработчикк      
-                  out_id_mass[i].addEventListener('click', handler);           
+                  out_id_mass[i].addEventListener('click', handler);      
+// проверить работу этой штуке			
+//out_id_mass[i].addEventListener('click', () => handler);         
                 }
                 console.log( out_id_mass );
            }
