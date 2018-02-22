@@ -1,0 +1,30 @@
+/*.v-bor{
+    border: 2px solid grey;
+    border-radius: .5rem;
+}*/
+.MC{
+    /*background-color:rgb(168, 236, 236);*/
+    margin-top: 5px;
+}
+.CL{
+    /*background-color:beige;*/
+}
+.SR{
+    /*background-color:rgb(129, 129, 145);*/
+}
+.SF{
+    height:100px;
+}
+.btn_city{
+    margin: 5px auto;
+}
+.btn_city span{
+    font-size: 16px;
+    font-weight: 600;
+}
+/*#city_flag{
+    float: left;
+}*/
+.btn-default{
+    margin-left: 10px;
+}
